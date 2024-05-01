@@ -1,2 +1,2 @@
 # Practice
-Repo for practice only
+Repo for practice only.
