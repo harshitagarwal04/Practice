@@ -6,6 +6,7 @@ for (let color in colors) {
     console.log((color) + " " + colors[color]);
 }
 
+
 // for of loop
 
 var scores = [10, 20, 30, 40, 50];  
